@@ -1,0 +1,18 @@
+{
+    "name": "jd/my-php-app",
+    "description": "deploy test of php app on heroku",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jd\\MyPhpApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JonathanDieke",
+            "email": "louloulexus@gmail.com"
+        }
+    ],
+    "require": {}
+}
